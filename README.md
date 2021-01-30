@@ -22,6 +22,8 @@
 # Description
 This app will allow you to create, save, and delete notes!
 
+<img width="776" alt="Screen Shot 2021-01-29 at 11 08 10 PM" src="https://user-images.githubusercontent.com/67520932/106347822-f45ff080-6286-11eb-8e5b-5803d79f9b8c.png">
+
 
 # Github
 [https://www.github.com/zachyanez](https://www.github.com/zachyanez)
